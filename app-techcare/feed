@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comentários sobre: App Techcare	</title>
+	<atom:link href="https://techcareapp.com/app-techcare/feed" rel="self" type="application/rss+xml" />
+	<link>https://techcareapp.com/app-techcare</link>
+	<description>O aplicativo - Dia a Dia</description>
+	<lastBuildDate>Mon, 14 Mar 2022 23:28:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0</generator>
+	<item>
+		<title>
+		Por: techcareadminz		</title>
+		<link>https://techcareapp.com/app-techcare#comment-6</link>
+
+		<dc:creator><![CDATA[techcareadminz]]></dc:creator>
+		<pubDate>Mon, 14 Mar 2022 23:28:49 +0000</pubDate>
+		<guid isPermaLink="false">https://techcareapp.com/?p=3254#comment-6</guid>
+
+					<description><![CDATA[muito legal!]]></description>
+			<content:encoded><![CDATA[<p>muito legal!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

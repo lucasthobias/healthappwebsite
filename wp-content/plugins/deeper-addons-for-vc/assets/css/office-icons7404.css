@@ -1,0 +1,80 @@
+	/*
+  	Office Icon icon font: Office Icon
+  	Creation date: 22/03/2019 08:10
+  	*/
+
+@font-face {
+  font-family: "Office Icon";
+  src: url("../font/office-icons/office.eot");
+  src: url("../font/office-icons/officed41d.eot?#iefix") format("embedded-opentype"),
+       url("../font/office-icons/office.woff2") format("woff2"),
+       url("../font/office-icons/office.woff") format("woff"),
+       url("../font/office-icons/office.ttf") format("truetype"),
+       url("../font/office-icons/office.svg#Office Icon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Office Icon";
+    src: url("../font/office-icons/office.svg#Office Icon") format("svg");
+  }
+}
+
+[class^="office-"]:before, [class*=" office-"]:before,
+[class^="office-"]:after, [class*=" office-"]:after {   
+  font-family: Office Icon;
+  font-style: normal;
+}
+
+.office-bank:before { content: "\f100"; }
+.office-stationery:before { content: "\f101"; }
+.office-cabinet:before { content: "\f102"; }
+.office-push-pin:before { content: "\f103"; }
+.office-folder:before { content: "\f104"; }
+.office-printer:before { content: "\f105"; }
+.office-certificate:before { content: "\f106"; }
+.office-letter:before { content: "\f107"; }
+.office-checklist:before { content: "\f108"; }
+.office-coffee:before { content: "\f109"; }
+.office-notepad:before { content: "\f10a"; }
+.office-lamp:before { content: "\f10b"; }
+.office-colleague:before { content: "\f10c"; }
+.office-clock:before { content: "\f10d"; }
+.office-documents:before { content: "\f10e"; }
+.office-plant:before { content: "\f10f"; }
+.office-knowledge:before { content: "\f110"; }
+.office-trophy:before { content: "\f111"; }
+.office-employee:before { content: "\f112"; }
+.office-call-center:before { content: "\f113"; }
+.office-chart:before { content: "\f114"; }
+.office-lightbulb:before { content: "\f115"; }
+.office-binders:before { content: "\f116"; }
+.office-building:before { content: "\f117"; }
+.office-window:before { content: "\f118"; }
+.office-bin:before { content: "\f119"; }
+.office-meeting:before { content: "\f11a"; }
+.office-businessman:before { content: "\f11b"; }
+.office-businesswoman:before { content: "\f11c"; }
+.office-desk:before { content: "\f11d"; }
+.office-teamwork:before { content: "\f11e"; }
+.office-conversation:before { content: "\f11f"; }
+.office-work:before { content: "\f120"; }
+.office-pencil:before { content: "\f121"; }
+.office-reception:before { content: "\f122"; }
+.office-chair:before { content: "\f123"; }
+.office-computer:before { content: "\f124"; }
+.office-presentation:before { content: "\f125"; }
+.office-tie:before { content: "\f126"; }
+.office-bicycle:before { content: "\f127"; }
+.office-stamp:before { content: "\f128"; }
+.office-attached:before { content: "\f129"; }
+.office-save-file:before { content: "\f12a"; }
+.office-colleague-1:before { content: "\f12b"; }
+.office-cabinet-1:before { content: "\f12c"; }
+.office-structure:before { content: "\f12d"; }
+.office-briefcase:before { content: "\f12e"; }
+.office-building-1:before { content: "\f12f"; }
+.office-corkboard:before { content: "\f130"; }
+.office-schedule:before { content: "\f131"; }
